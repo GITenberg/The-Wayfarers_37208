@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1684'
     url: http://www.gutenberg.org/2009/agents/1684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37208#The-Wayfarers
 gutenberg_issued: '2011-08-26'
 gutenberg_type: Text
 identifiers:
